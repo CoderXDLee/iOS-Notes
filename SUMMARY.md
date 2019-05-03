@@ -8,5 +8,6 @@
     * [3.1 日期样式（dateStyle）](dateformatter/3.-shu-xing-jie-shao/3.1-ri-qi-yang-shi-datestyle.md)
     * [3.2 时间样式（Time Style）](dateformatter/3.-shu-xing-jie-shao/3.2-shi-jian-yang-shi-time-style.md)
     * [3.3 日期格式（dateFormat）](dateformatter/3.-shu-xing-jie-shao/3.3-ri-qi-ge-shi-dateformat.md)
-* [CAGradientLayer](cagradientlayer.md)
+* [CAGradientLayer](cagradientlayer/README.md)
+  * [1.实现渐变色背景](cagradientlayer/1.-shi-xian-jian-bian-se-bei-jing.md)
 
