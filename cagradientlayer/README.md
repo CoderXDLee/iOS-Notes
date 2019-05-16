@@ -21,21 +21,21 @@
   * **startPoint\(可选\):**  渲染的起始位置，默认值是: \[0.5, 0\]（具体坐标参考下图）。
   * **endPoint\(可选\):**   渲染的终止位置，默认值是: \[0.5, 1\] （具体坐标参考下图）。
 
-![&#x5355;&#x4F4D;&#x5750;&#x6807;&#x7CFB;](../.gitbook/assets/image%20%281%29.png)
+![&#x5355;&#x4F4D;&#x5750;&#x6807;&#x7CFB;](../.gitbook/assets/snip20190504_7.png)
 
 * 官方代码:
 
 ```swift
 /* The array of CGColorRef objects defining the color of each gradient
-     * stop. Defaults to nil. Animatable. */
+ * stop. Defaults to nil. Animatable. */
 open var colors: [Any]?
 
 /* An optional array of NSNumber objects defining the location of each
-     * gradient stop as a value in the range [0,1]. The values must be
-     * monotonically increasing. If a nil array is given, the stops are
-     * assumed to spread uniformly across the [0,1] range. When rendered,
-     * the colors are mapped to the output colorspace before being
-     * interpolated. Defaults to nil. Animatable. */
+ * gradient stop as a value in the range [0,1]. The values must be
+ * monotonically increasing. If a nil array is given, the stops are
+ * assumed to spread uniformly across the [0,1] range. When rendered,
+ * the colors are mapped to the output colorspace before being
+ * interpolated. Defaults to nil. Animatable. */
 open var locations: [NSNumber]?
 
 /* The start and end points of the gradient when drawn into the layer's
