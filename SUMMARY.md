@@ -13,4 +13,8 @@
     * [1.1 实现两种颜色的渐变背景](cagradientlayer/1.-shi-xian-jian-bian-se-bei-jing/1.1-shi-xian-liang-zhong-yan-se-de-jian-bian-bei-jing.md)
     * [1.2 实现多种颜色的渐变背景（彩虹）](cagradientlayer/1.-shi-xian-jian-bian-se-bei-jing/1.2-shi-xian-duo-zhong-yan-se-de-jian-bian-bei-jing-cai-hong.md)
     * [1.3 扩展渐变类实现代码复用](cagradientlayer/1.-shi-xian-jian-bian-se-bei-jing/1.3-kuo-zhan-jian-bian-lei-shi-xian-dai-ma-fu-yong.md)
+  * [2. 实现圆环进度条](cagradientlayer/2.-shi-xian-yuan-huan-jin-du-tiao/README.md)
+    * [1、效果图](cagradientlayer/2.-shi-xian-yuan-huan-jin-du-tiao/1-xiao-guo-tu.md)
+    * [2、实现原理](cagradientlayer/2.-shi-xian-yuan-huan-jin-du-tiao/2-shi-xian-yuan-li.md)
+    * [3、样例代码](cagradientlayer/2.-shi-xian-yuan-huan-jin-du-tiao/3-yang-li-dai-ma.md)
 
