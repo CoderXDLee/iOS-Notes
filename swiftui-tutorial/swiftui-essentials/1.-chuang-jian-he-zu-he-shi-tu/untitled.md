@@ -4,24 +4,24 @@
 
 ![](../../../.gitbook/assets/1.0.gif)
 
-用 `SwiftUI` 创建一个新的 Xcode 项目。浏览画布（canvas），预览和 SwiftUI 模板代码。  
+用 `SwiftUI` 创建一个新的 Xcode 项目。并且浏览一下这个画布（canvas）以及 SwiftUI 模板代码。  
 要在 Xcode 中预览画布上的视图并与之交互，请确保 Mac 运行的是 MacOS 10.15 测试版。
 
 #### 第 1 步: 
 
-打开 Xcode，在 Xcode 的启动窗口，点击 **`Create a new Xcode project`**，或者选择 **`Files` -&gt; `New` -&gt; `Project`**.
+打开 Xcode，在 Xcode 的启动窗口，点击 `Create a new Xcode project`，或者选择 `Files` -&gt; `New` -&gt; `Project`.
 
 ![Create a new Xcode project](../../../.gitbook/assets/snip20190626_1.png)
 
 #### 第 2 步:
 
-在模板选择器中，选择 **`iOS`** 作为平台，选择 **`Single View App`** 模板，然后单击 **`Next`**。
+在模板选择器中，选择 `iOS` 作为平台，选择 `Single View App` 模板，然后单击 `Next`。
 
 ![&#x9009;&#x62E9;&#x6A21;&#x677F;](../../../.gitbook/assets/snip20190626_2.png)
 
 #### 第 3 步:
 
-输入 **`Landmarks`** 作为 **`Product Name`** ，勾选 **`Use SwiftUI`** 复选框，然后单击 **`Next`** 。选择一个位置保存此项目。
+输入 `Landmarks` 作为 `Product Name` ，勾选 `Use SwiftUI` 复选框，然后单击 `Next` 。选择一个位置保存此项目。
 
 ![&#x914D;&#x7F6E;&#x53C2;&#x6570;](../../../.gitbook/assets/snip20190626_3.png)
 
@@ -55,9 +55,9 @@ struct ContentView_Previews : PreviewProvider {
 
 #### 第 5 步: 
 
-在 **`canvas`** 中，单击 **`Resume`** 来显示预览。
+在 `canvas` 中，单击 `Resume` 来显示预览。
 
-> Tip: 如果没有**`canvas`** ，选择 **`Editor`**-&gt; **`Editor and Canvas`** 来显示。
+> Tip: 如果没有`canvas` ，选择 `Editor`-&gt; `Editor and Canvas` 来显示。
 
 ![Resume](../../../.gitbook/assets/snip20190626_5.png)
 
