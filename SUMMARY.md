@@ -31,4 +31,6 @@
   * [2. 构建列表和导航](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/README.md)
     * [1.1 了解样本数据](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.1-le-jie-yang-ben-shu-ju.md)
     * [1.2 创建 Row View](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.2-chuang-jian-row-view.md)
+    * [1.3 自定义 Row 的预览](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.3-zi-ding-yi-row-de-yu-lan.md)
+    * [1.4 创建地标列表](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.4-chuang-jian-di-biao-lie-biao.md)
 
