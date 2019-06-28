@@ -26,4 +26,9 @@
     * [1.2 自定义 textView](swiftui-tutorial/swiftui-essentials/1.-chuang-jian-he-zu-he-shi-tu/1.2-zi-ding-yi-textview.md)
     * [1.3 用  stacks 组合 View](swiftui-tutorial/swiftui-essentials/1.-chuang-jian-he-zu-he-shi-tu/1.3-yong-stacks-zu-he-view.md)
     * [1.4 自定义 image View](swiftui-tutorial/swiftui-essentials/1.-chuang-jian-he-zu-he-shi-tu/1.4-zi-ding-yi-image-view.md)
+    * [1.5 同时使用 UIKit 和 SwiftUI](swiftui-tutorial/swiftui-essentials/1.-chuang-jian-he-zu-he-shi-tu/1.5-tong-shi-shi-yong-uikit-he-swiftui.md)
+    * [1.6 编写详情 View](swiftui-tutorial/swiftui-essentials/1.-chuang-jian-he-zu-he-shi-tu/1.6-bian-xie-xiang-qing-view.md)
+  * [2. 构建列表和导航](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/README.md)
+    * [1.1 了解样本数据](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.1-le-jie-yang-ben-shu-ju.md)
+    * [1.2 创建 Row View](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.2-chuang-jian-row-view.md)
 
