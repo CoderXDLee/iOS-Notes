@@ -2,7 +2,7 @@
 description: SwiftUI 要点
 ---
 
-# SwiftUI Essentials
+# SwiftUI 要点
 
 Creating and Combining Views
 
