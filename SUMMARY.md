@@ -36,4 +36,5 @@
     * [1.5 - 动态化列表](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.5-dong-tai-hua-lie-biao.md)
     * [1.6 - 在列表和详情之间设置导航](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.6-zai-lie-biao-he-xiang-qing-zhi-jian-she-zhi-dao-hang.md)
     * [1.7 - 给子 View 传递数据](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.7-gei-zi-view-chuan-di-shu-ju.md)
+    * [1.8 - 动态生成预览](swiftui-tutorial/swiftui-essentials/2.-gou-jian-lie-biao-he-dao-hang/1.8-dong-tai-sheng-cheng-yu-lan.md)
 
