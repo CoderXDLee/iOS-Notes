@@ -1,6 +1,6 @@
 # 绘制与动画
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## 绘制 Path 和 Shape
 

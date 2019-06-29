@@ -41,5 +41,7 @@
     * [3.1 - 标记用户收藏的地标](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.1-biao-ji-yong-hu-shou-cang-de-di-biao.md)
     * [3.2 - 过滤 List View](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.2-guo-lv-list-view.md)
     * [3.3 - 添加控件来切换状态](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.3-tian-jia-kong-jian-lai-qie-huan-zhuang-tai.md)
+    * [3.4 - 使用 Bindable Object 进行存储](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.4-shi-yong-bindable-object-jin-hang-cun-chu.md)
+    * [3.5 - 在 View 中接受模型对象](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.5-zai-view-zhong-jie-shou-mo-xing-dui-xiang.md)
 * [绘制与动画](swiftui-tutorial/hui-zhi-yu-dong-hua.md)
 
