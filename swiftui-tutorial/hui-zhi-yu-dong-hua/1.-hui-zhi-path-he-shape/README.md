@@ -1,6 +1,4 @@
-# 绘制与动画
-
-![](../.gitbook/assets/image%20%2817%29.png)
+# 1. 绘制 Path 和 Shape
 
 ## 绘制 Path 和 Shape
 
@@ -12,4 +10,6 @@
 
 👉 预计完成时间：25 分钟  
 👉 项目文件: [下载](https://docs-assets.developer.apple.com/published/449412f44f/DrawingPathsAndShapes.zip)
+
+
 

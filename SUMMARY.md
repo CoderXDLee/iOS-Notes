@@ -44,5 +44,8 @@
     * [3.4 - 使用 Bindable Object 进行存储](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.4-shi-yong-bindable-object-jin-hang-cun-chu.md)
     * [3.5 - 在 View 中接受模型对象](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.5-zai-view-zhong-jie-shou-mo-xing-dui-xiang.md)
     * [3.6 - 给每个 Landmark 创建收藏按钮](swiftui-tutorial/swiftui-essentials/3.-chu-li-yong-hu-shu-ru/3.6-gei-mei-ge-landmark-chuang-jian-shou-cang-an-niu.md)
-* [绘制与动画](swiftui-tutorial/hui-zhi-yu-dong-hua.md)
+* [绘制与动画](swiftui-tutorial/hui-zhi-yu-dong-hua/README.md)
+  * [1. 绘制 Path 和 Shape](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/README.md)
+    * [1.1 - 创建一个 Badge View](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.1-chuang-jian-yi-ge-badge-view.md)
+    * [1.2 - 绘制 Badge 的背景](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.2-hui-zhi-badge-de-bei-jing.md)
 
