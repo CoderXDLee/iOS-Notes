@@ -48,4 +48,6 @@
   * [1. 绘制 Path 和 Shape](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/README.md)
     * [1.1 - 创建一个 Badge View](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.1-chuang-jian-yi-ge-badge-view.md)
     * [1.2 - 绘制 Badge 的背景](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.2-hui-zhi-badge-de-bei-jing.md)
+    * [1.3 - 绘制 Badge Symbol](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.3-hui-zhi-badge-symbol.md)
+    * [1.4 - 组合 Badge 的前景和背景](swiftui-tutorial/hui-zhi-yu-dong-hua/1.-hui-zhi-path-he-shape/1.4-zu-he-badge-de-qian-jing-he-bei-jing.md)
 
